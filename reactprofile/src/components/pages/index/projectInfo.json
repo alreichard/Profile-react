@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Java quiz",
+        "img": "fa fa-pencil",
+        "git": "https://alreichard.github.io/workday-portfolio/", 
+        "web": "https://alreichard.github.io/Java-quiz/"
+
+    },
+    {
+        "name": "Day calendar",
+        "img": "fa fa-calendar-o",
+        "git": "https://github.com/alreichard/workday-portfolio", 
+        "web": "https://alreichard.github.io/workday-portfolio/"
+
+    },
+    {
+        "name": "Note taker",
+        "img": "fa fa-sticky-note-o",
+        "git": "https://github.com/alreichard/Note-Taker", 
+        "web": "https://github.com/alreichard/Note-Takers"
+
+    },
+    {
+        "name": "Burger logger",
+        "img": "fa fa-cutlery",
+        "git": "https://github.com/alreichard/burger-logger", 
+        "web": "https://alreichard.github.io/burger-logger/."
+
+    },
+    {
+        "name": "Character combat",
+        "img": "fa fa-hand-rock-o",
+        "git": "https://github.com/alreichard/Character-Combat/settings", 
+        "web": " https://alreichard.github.io/Character-Combat/"
+
+    },
+    {
+        "name": "Uni Buy",
+        "img": "fa fa-handshake-o",
+        "git": "https://github.com/alreichard/uni-buy", 
+        "web": "https://alreichard.github.io/uni-buy/."
+
+    }
+]
+

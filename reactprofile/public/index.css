@@ -1,0 +1,44 @@
+
+body {
+    background:
+linear-gradient(135deg, #708090 21px,#33cccc 22px, #33cccc 24px, transparent 24px, transparent 67px, #33cccc 67px, #33cccc 69px, transparent 69px),
+linear-gradient(225deg, #708090 21px, #33cccc 22px, #33cccc 24px, transparent 24px, transparent 67px, #33cccc 67px, #33cccc 69px, transparent 69px)0 64px;
+background-color:#708090;
+background-size: 64px 128px;
+}
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 40px;
+    color: #33cccc;
+}
+/* all button colors */
+.button {
+    background-color: #33cccc;
+}
+/* all hr line color */
+hr {
+    background-color: #33cccc;
+}
+/* name tag */
+.colfix{
+    background-color: #33cccc;
+    color: white
+}
+
+a {
+    color: #33cccc;
+}
+
+.cool{
+    font-size:50px;
+    color:#33cccc;
+}
+
+.footer{
+   position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
